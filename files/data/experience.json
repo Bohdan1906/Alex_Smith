@@ -1,0 +1,77 @@
+{
+	"experience":[
+		{
+			"id":1,
+			"isActive": true,
+			"company": "Apple",
+			"info":{
+			"major": "Front-end Developer",
+			"span": "Apple .Inc",
+			"adres": "California, United States",
+			"workEexpiriens": "Nov 2020 - Present · Full-time",
+			"swift": "Swift",
+			"go": "Go"
+			},
+			"workSkils":{
+				"hardSoftSkils01": "Improving overall website performance for mobile users",
+				"hardSoftSkils02": "Collaborate with back-end developers and web designers to improve usability",
+				"hardSoftSkils03": "Add voice search feature for mobile app.",
+				"hardSoftSkils04": "Developing an admin panel to manage contents, users, products and ..."
+			}
+		},
+		{
+			"id":2,
+			"isActive": false,
+			"company": "Microsoft",
+			"info":{
+			"major": "Front-end Developer <span>Microsoft</span>",
+			"adres": "Kyiv, Ukrain",
+			"work-expiriens": "Nov 2020 - Present · Full-time",
+			"swift": "Swift",
+			"go": "Go"
+			},
+			"workSkils":{
+				"hardSoftSkils01": "Improving overall website performance for mobile users",
+				"hardSoftSkils02": "Collaborate with back-end developers and web designers to improve usability",
+				"hardSoftSkils03": "Add voice search feature for mobile app.",
+				"hardSoftSkils04": "Developing an admin panel to manage contents, users, products and ..."
+			}
+		},
+		{
+			"id":3,
+			"isActive": false,
+			"company": "Facebook",
+			"info":{
+			"major": "Front-end Developer <span>Facebook</span>",
+			"adres": "California, United States",
+			"work-expiriens": "Nov 2020 - Present · Full-time",
+			"swift": "Swift",
+			"go": "Go"
+			},
+			"workSkils":{
+				"hardSoftSkils01": "Improving overall website performance for mobile users",
+				"hardSoftSkils02": "Collaborate with back-end developers and web designers to improve usability",
+				"hardSoftSkils03": "Add voice search feature for mobile app.",
+				"hardSoftSkils04": "Developing an admin panel to manage contents, users, products and ..."
+			}
+		},
+		{
+			"id":4,
+			"isActive": false,
+			"company": "Slack",
+			"info":{
+			"major": "Front-end Developer <span>Slack</span>",
+			"adres": "California, United States",
+			"work-expiriens": "Nov 2020 - Present · Full-time",
+			"swift": "Swift",
+			"go": "Go"
+			},
+			"workSkils":{
+				"hardSoftSkils01": "Improving overall website performance for mobile users",
+				"hardSoftSkils02": "Collaborate with back-end developers and web designers to improve usability",
+				"hardSoftSkils03": "Add voice search feature for mobile app.",
+				"hardSoftSkils04": "Developing an admin panel to manage contents, users, products and ..."
+			}
+		}
+	]
+}
